@@ -1,5 +1,5 @@
 # **DATA ANALYTICS ABOUT HEALTH CARE IN WEST JAVA**
-![image](https://www.freepik.com/free-photo/flat-lay-health-still-life-arrangement-with-copy-space_12412915.htm#fromView=search&page=1&position=5&uuid=37836278-22a4-4e52-8b02-2e2845af1861)
+
 
 ## **PROJECT DESCRIPTION**
 This project provides an in-depth analysis of healthcare services across various regions in West Java, Indonesia. By examining statistical data on healthcare facilities and insurance coverage in both urban and rural areas, this project aims to highlight the disparities, availability, and efficiency of healthcare services in different parts of the province.
