@@ -17,6 +17,7 @@ This project provides an in-depth analysis of healthcare services across various
 
 ## **Usage Guide**
 - Cloning Repository: Clone this repository to your local machine with the command: `git clone https://github.com/robynhood99/DataAnalyst_Healthcare.git`
+- Open File DataAnalyst_myrobyn: Open the file to view the contents of the downloaded file.
 - Open File Tableau: Open file tableau (.twb) in Tableau App to see the entire analysis process and visualization result and maybe you can improve about this file.
 - View Result: Use the Result.pptx file to get a visual summary of the analysis and key insights.
 - Dataset: TThe dataset.xlsx file can be used to perform further analysis or verify results with raw data.
